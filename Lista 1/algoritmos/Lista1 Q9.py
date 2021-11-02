@@ -1,0 +1,5 @@
+n=str(input("Digite seu nome:"))
+s=float(input("Digite seu salário:"))
+v=float(input("Valor das vendas:"))
+sf=s+(v*0.15)
+print(n,"vai receber",sf,"de salário.")

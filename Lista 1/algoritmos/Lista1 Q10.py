@@ -1,0 +1,8 @@
+c1=float(input("Código da peça 1:"))
+n1=float(input("Numero de peças 1:"))
+vu1=float(input("Valor unitário da peça1:"))
+c2=float(input("Código da peça 2:"))
+n2=float(input("Numero de peças 2:"))
+vu2=float(input("Valor unitário de peça 2:"))
+vf=(n1*vu1)+(n2*vu2)
+print("O valor a ser pago é",vf)
